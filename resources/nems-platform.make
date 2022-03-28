@@ -66,7 +66,7 @@ projects[remote_stream_wrapper][subdir] = "contrib/nems"
 projects[remote_stream_wrapper][version] = "1.0-rc1"
 
 projects[role_delegation][subdir] = "contrib/nems"
-projects[role_delegation][version] = "1.1"
+projects[role_delegation][version] = "1.3"
 
 projects[taxonomy_access_fix][subdir] = "contrib/nems"
 projects[taxonomy_access_fix][version] = "2.3"
